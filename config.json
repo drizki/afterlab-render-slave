@@ -1,0 +1,9 @@
+{
+  "id": "c3febe19-a3e9-44cd-9e1d-4c08f1f60bc0",
+  "file": "./blend/sample.blend",
+  "type": "-a",
+  "frameStart": 0,
+  "frameEnd": 0,
+  "autorunScript": true,
+  "script": "script.py"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "slave",
+  "version": "1.0.0",
+  "description": "Afterlab render slave",
+  "main": "index.js",
+  "author": "Dwi Rizki Irawan",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "firebase": "^6.3.5",
+    "moment": "^2.24.0"
+  }
+}
