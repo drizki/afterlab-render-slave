@@ -24,6 +24,7 @@ const init = async () => {
     const progress = data.toString().replace(/(\r\n|\n|\r)/gm, "");
     try {
       if (progress.length) {
+        console.log(progress);
         await job.progress(config.id, progress);
       }
     } catch (error) {
